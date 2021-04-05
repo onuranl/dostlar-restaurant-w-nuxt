@@ -1,5 +1,7 @@
 # nuxtfoodapp
 
+https://festive-bohr-7f710b.netlify.app/
+
 ## Build Setup
 
 ```bash
